@@ -19,4 +19,4 @@ You won't have to worry about guilt when trying to lose or gain weight when you 
 
 ## License
 
-This licence is under MIT License - for more information view [License]()
+This licence is under MIT License - for more information view [License](https://github.com/KhireGreen/NoGuiltRecipes/blob/main/LICENSE)
