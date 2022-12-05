@@ -4,9 +4,9 @@ You won't have to worry about guilt when trying to lose or gain weight when you 
 
 ## API Used
 
+We created our first API using MySQL to gather information about our customers.
+
 [Recipe Search and Diet API](https://rapidapi.com/edamam/api/recipe-search-and-diet) - Used to build third party API
-
-
 
 
 
